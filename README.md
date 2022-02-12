@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Navaneet Chitrapur</h1>
 
-### I'm a **Full Stack Web Developer**. I am from Gadag, Karnataka and currently studying at [Masai School](https://www.masaischool.com/). I love to explore and learn new technologies. I always had a fondness for technology and coding. I started my journey with basic programming concepts of Java and then I learned JS, HTML, CSS, Express, React and many other web development technologies. I'm open to collaborate on interesting projects.
+### I'm a **Full Stack Web Developer**. I am from Murdeshwar, Karnataka and currently studying at [Masai School](https://www.masaischool.com/). I love to explore and learn new technologies. I always had a fondness for technology and coding. I started my journey with basic programming concepts of Java and then I learned JS, HTML, CSS, Express, React and many other web development technologies. I'm open to collaborate on interesting projects.
 
 
 #### 📄 [Resume](https://drive.google.com/file/d/1brrGEh-9RbfUzTJYJv2hQdbI2PVUw4Z0/view?usp=sharing)
