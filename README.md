@@ -26,6 +26,12 @@
 <a href="Mailto:navni.hari@gmail.com" target="_blank"><img src="https://img.icons8.com/color/96/000000/gmail-new.png" width="50" /></a>
 
 <br/>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Navaneet1999&show_icons=true&locale=en&layout=compact" alt="Navaneet1999" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Navaneet1999&show_icons=true&locale=en" alt="Navaneet1999" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Navaneet1999&label=Profile%20views&color=0e75b6&style=flat" alt="Navaneet1999" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Navaneet1999" alt="Navaneet1999" /></a> </p>
 <!---
 Navaneet1999/Navaneet1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
